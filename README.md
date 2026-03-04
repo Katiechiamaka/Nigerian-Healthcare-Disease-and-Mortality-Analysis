@@ -17,3 +17,17 @@ Infectious diseases vary across different Nigeria regions, populations, and time
 
 # Business Objectives
 To analyze disease incidence, mortality trends, and demographic vulnerability across states and years, enabling data-driven public health decisions and targeted interventions.
+
+# Dataset Description
+The dataset contains healthcare records capturing disease incidence, mortality, and demographic information across multiple states and years. 
+Each row represents a patient or reported case and includes attributes such as
+- **State:** 37 States
+- *&Time Period&*
+- Disease
+- Status (Alive/Dead)
+- Age Group
+- Location (Rural/Urban).
+  The dataset enables analysis of disease occurrence, death rates, demographic vulnerability, and temporal trends for public health planning and decision-making.
+
+
+
