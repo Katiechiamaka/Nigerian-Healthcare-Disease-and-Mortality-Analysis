@@ -21,9 +21,10 @@ To analyze disease incidence, mortality trends, and demographic vulnerability ac
 # Dataset Description
 The dataset contains healthcare records capturing disease incidence, mortality, and demographic information across multiple states and years. 
 Each row represents a patient or reported case and includes attributes such as
+- **Location:** Nigeria
 - **State:** 37 States
-- *&Time Period&*
-- Disease
+- **Report:** From 2009 to 2018
+- **Disease:** 
 - Status (Alive/Dead)
 - Age Group
 - Location (Rural/Urban).
