@@ -25,36 +25,31 @@ Each row represents a patient or reported case and includes attributes such as
 - **State:** 37 States
 - **Report:** From 2009 to 2018
 - **Disease:** 
-- Status (Alive/Dead)
-- Age Group
-- Location (Rural/Urban).
+- **Status:** Alive/Dead
+- **Age Group**
+- **Location:** Rural/Urban.
+  
   The dataset enables analysis of disease occurrence, death rates, demographic vulnerability, and temporal trends for public health planning and decision-making.
 
 # Tools and Techniques
-Tool
+### Tool
 
-Power BI – Used for data cleaning, data transformation, analysis, and dashboard visualization.
+- **Power BI** – Used for data cleaning, data transformation, analysis, and dashboard visualization.
 
-Techniques
+### Techniques
+- Data Transformation using Power Query
+- DAX Calculations for metrics such as total cases, deaths, and death rate
+- Data Visualization using charts (bar charts, line charts, donut charts, and cards)
+- Interactive Dashboard Design using slicers and filters
 
-Data Transformation using Power Query
-
-Data Modeling
-
-DAX Calculations for metrics such as total cases, deaths, and death rate
-
-Data Visualization using charts (bar charts, line charts, donut charts, and cards)
-
-Interactive Dashboard Design using slicers and filters
 # Dashboard
 
 <img width="1097" height="727" alt="NIgerian Healthcare Dashboard" src="https://github.com/user-attachments/assets/932941dd-d29e-49b0-bf7f-cf76f5e687e7" />
 
-
 # Key Business Questions Answered
 ### Which states has the highest incidence of Malaria and Cholera?
 
-<img width="352" height="250" alt="Malaria And Cholera cases across States" src="https://github.com/user-attachments/assets/390f29c6-2d43-4efe-8fce-b2ad4991a26e" />
+<img width="652" height="450" alt="Malaria And Cholera cases across States" src="https://github.com/user-attachments/assets/390f29c6-2d43-4efe-8fce-b2ad4991a26e" />
 
 #### Insights
 - Sokoto and Abia show the highest combined incidence of Cholera, indicating higher cholera disease burden in these states.
