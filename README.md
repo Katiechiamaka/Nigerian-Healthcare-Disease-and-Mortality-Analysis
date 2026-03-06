@@ -32,8 +32,58 @@ Each row represents a patient or reported case and includes attributes such as
 
 # Tools and Techniques
 
+# Dashboard
 
-# 
+<img width="1097" height="727" alt="NIgerian Healthcare Dashboard" src="https://github.com/user-attachments/assets/932941dd-d29e-49b0-bf7f-cf76f5e687e7" />
 
+
+# Key Business Questions Answered
+### Which states has the highest incidence of Malaria and Cholera?
+
+<img width="352" height="250" alt="Malaria And Cholera cases across States" src="https://github.com/user-attachments/assets/390f29c6-2d43-4efe-8fce-b2ad4991a26e" />
+
+#### Insights
+
+
+### Which State has the highest death rate due to Cholera?
+
+<img width="399" height="243" alt="Cholera Moratlity rate" src="https://github.com/user-attachments/assets/2fce1863-02f4-46de-8618-90db3b9b9381" />
+
+
+#### Insights
+
+
+### Which group do we have the highest disease occurrence, rural or urban?
+
+<img width="310" height="247" alt="Disease occurence by location" src="https://github.com/user-attachments/assets/4bd33a78-272f-4715-a562-54a163fbefb9" />
+
+#### Insights
+
+
+### Which diseases has the highest death rate in 2010 and 2018?
+
+<img width="354" height="298" alt="Top disease by death rate" src="https://github.com/user-attachments/assets/7935d538-4ebc-47ad-8f37-6e87a09e5bd1" />
+
+#### Insights
+
+### Which year do we have highest incidence of Meningitis?
+
+<img width="401" height="299" alt="Meningitis Incidence rate" src="https://github.com/user-attachments/assets/a989b9e5-4e40-4fcd-b6d2-4250c4e74693" />
+
+#### Insights
+
+
+### Which Age group are more susceptible to Diarrhoea?
+
+<img width="318" height="298" alt="Diarrhoea Incidence across age group" src="https://github.com/user-attachments/assets/76b80619-a7e9-416b-90fb-2df34126906a" />
+
+#### Insights
+
+
+
+# Recommendation
+
+
+# Conclusion
 
 
