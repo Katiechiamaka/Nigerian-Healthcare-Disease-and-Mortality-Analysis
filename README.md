@@ -101,7 +101,17 @@ This pattern suggests that working-age populations may have higher exposure to r
 
 
 # Recommendation
+High-incidence states such as Sokoto, Kebbi, and Niger should receive targeted public health interventions, including mosquito net distribution, sanitation programs, and improved access to clean water.
 
+States with extremely high cholera mortality rates should strengthen emergency healthcare response by improving early diagnosis, treatment availability, and rapid medical intervention.
+
+Healthcare infrastructure should be expanded in both urban and rural areas since disease occurrence is almost evenly distributed across the two settlement types.
+
+Vaccination and disease control programs should be intensified to reduce the rising death rates observed in diseases such as measles and viral hemorrhagic fever.
+
+Public health education campaigns should focus on young adults and adults, as they show the highest incidence of diarrhoea.
+
+Health authorities should implement stronger disease surveillance and early warning systems to detect and respond quickly to outbreaks such as the spike in meningitis cases.
 
 # Conclusion
 
