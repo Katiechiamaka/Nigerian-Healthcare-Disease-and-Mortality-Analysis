@@ -49,7 +49,7 @@ Each row represents a patient or reported case and includes attributes such as
 # Key Business Questions Answered
 ### Which states has the highest incidence of Malaria and Cholera?
 
-<img width="652" height="450" alt="Malaria And Cholera cases across States" src="https://github.com/user-attachments/assets/390f29c6-2d43-4efe-8fce-b2ad4991a26e" />
+<img width="652" height="350" alt="Malaria And Cholera cases across States" src="https://github.com/user-attachments/assets/390f29c6-2d43-4efe-8fce-b2ad4991a26e" />
 
 #### Insights
 - Sokoto and Abia show the highest combined incidence of Cholera, indicating higher cholera disease burden in these states.
