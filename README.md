@@ -43,28 +43,37 @@ Each row represents a patient or reported case and includes attributes such as
 <img width="352" height="250" alt="Malaria And Cholera cases across States" src="https://github.com/user-attachments/assets/390f29c6-2d43-4efe-8fce-b2ad4991a26e" />
 
 #### Insights
-
+- Sokoto and Abia show the highest combined incidence of Cholera, indicating higher cholera disease burden in these states.
+- Abia has the lowest reported case for malaria, suggesting either better disease control or lower incidence.
+- In most states, Cholera cases appear slightly higher than Malaria, indicating cholera may require more targeted interventions in these areas.
 
 ### Which State has the highest death rate due to Cholera?
 
 <img width="399" height="243" alt="Cholera Moratlity rate" src="https://github.com/user-attachments/assets/2fce1863-02f4-46de-8618-90db3b9b9381" />
 
-
 #### Insights
-
-
+- Bayelsa and Cross River recorded the highest cholera mortality rate at 100%, indicating extremely severe outcomes for reported cases.
+- Enugu and Yobe follow with 80% mortality, which is also significantly high.
+- The high mortality rates across several states highlight possible gaps in access to timely treatment and healthcare resources.
+  
 ### Which group do we have the highest disease occurrence, rural or urban?
 
 <img width="310" height="247" alt="Disease occurence by location" src="https://github.com/user-attachments/assets/4bd33a78-272f-4715-a562-54a163fbefb9" />
 
 #### Insights
-
+- Disease occurrence is almost evenly distributed between rural and urban areas.
+- Urban areas account for about 50.24% of cases, slightly higher than rural areas.
+- The small difference suggests that disease spread affects both locations similarly, emphasizing the need for nationwide public health interventions rather than location-specific focus alone.
 
 ### Which diseases has the highest death rate in 2010 and 2018?
 
 <img width="354" height="298" alt="Top disease by death rate" src="https://github.com/user-attachments/assets/7935d538-4ebc-47ad-8f37-6e87a09e5bd1" />
 
 #### Insights
+- Measles experienced the largest increase in death rate, rising from 50% in 2010 to 67% in 2018.
+- Viral Hemorrhagic Fever also increased from 50% to 57%, indicating worsening outcomes.
+- Rubella showed a decline in death rate, suggesting improved treatment or vaccination coverage.
+- Ebola maintained a consistently high death rate (63%), highlighting its continued severity.
 
 ### Which year do we have highest incidence of Meningitis?
 
