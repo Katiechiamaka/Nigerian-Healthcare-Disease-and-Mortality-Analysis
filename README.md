@@ -30,5 +30,10 @@ Each row represents a patient or reported case and includes attributes such as
 - Location (Rural/Urban).
   The dataset enables analysis of disease occurrence, death rates, demographic vulnerability, and temporal trends for public health planning and decision-making.
 
+# Tools and Techniques
+
+
+# 
+
 
 
