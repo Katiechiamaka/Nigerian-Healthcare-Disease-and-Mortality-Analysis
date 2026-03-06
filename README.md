@@ -31,7 +31,21 @@ Each row represents a patient or reported case and includes attributes such as
   The dataset enables analysis of disease occurrence, death rates, demographic vulnerability, and temporal trends for public health planning and decision-making.
 
 # Tools and Techniques
+Tool
 
+Power BI – Used for data cleaning, data transformation, analysis, and dashboard visualization.
+
+Techniques
+
+Data Transformation using Power Query
+
+Data Modeling
+
+DAX Calculations for metrics such as total cases, deaths, and death rate
+
+Data Visualization using charts (bar charts, line charts, donut charts, and cards)
+
+Interactive Dashboard Design using slicers and filters
 # Dashboard
 
 <img width="1097" height="727" alt="NIgerian Healthcare Dashboard" src="https://github.com/user-attachments/assets/932941dd-d29e-49b0-bf7f-cf76f5e687e7" />
