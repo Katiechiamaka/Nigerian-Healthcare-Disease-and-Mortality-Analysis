@@ -114,5 +114,5 @@ Public health education campaigns should focus on young adults and adults, as th
 Health authorities should implement stronger disease surveillance and early warning systems to detect and respond quickly to outbreaks such as the spike in meningitis cases.
 
 # Conclusion
-
+The analysis reveals significant variations in disease incidence and mortality across Nigerian states, years, and population groups. Certain states experience higher cases of malaria and cholera, while some diseases exhibit notably high mortality rates. Disease occurrence is almost evenly distributed between rural and urban areas, and specific age groups are more affected by illnesses such as diarrhoea. These findings highlight the need for targeted public health interventions, improved disease monitoring, and strengthened healthcare systems to reduce disease burden and mortality.
 
