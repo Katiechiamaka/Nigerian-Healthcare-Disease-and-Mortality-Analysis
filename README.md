@@ -90,7 +90,7 @@ Each row represents a patient or reported case and includes attributes such as
 
 #### Insights
 - The lowest incidence occurred in 2010, with 10 cases.
-- The highest meningitis incidence occurred in 2015, with 28 reported cases, indicating a significant increase after 2010 low occurance.
+- The highest meningitis incidence occurred in 2015, with 28 reported cases, indicating a significant increase after 2010 low occurence.
 - After the peak in 2015, there was a steady decline in cases, suggesting improved disease control measures and interventions over time.
 
 ### Which Age group are more susceptible to Diarrhoea?
