@@ -89,38 +89,34 @@ Each row represents a patient or reported case and includes attributes such as
 <img width="401" height="299" alt="Meningitis Incidence rate" src="https://github.com/user-attachments/assets/a989b9e5-4e40-4fcd-b6d2-4250c4e74693" />
 
 #### Insights
-The highest meningitis incidence occurred in 2015, with 28 reported cases.
-
-The lowest incidence occurred in 2010, with 10 cases, indicating a significant increase afterward.
-
-After the peak in 2015, there was a steady decline in cases, suggesting improved disease control measures or interventions over time.
+- The lowest incidence occurred in 2010, with 10 cases.
+- The highest meningitis incidence occurred in 2015, with 28 reported cases, indicating a significant increase afterward.
+- After the peak in 2015, there was a steady decline in cases, suggesting improved disease control measures and interventions over time.
 
 ### Which Age group are more susceptible to Diarrhoea?
 
 <img width="318" height="298" alt="Diarrhoea Incidence across age group" src="https://github.com/user-attachments/assets/76b80619-a7e9-416b-90fb-2df34126906a" />
 
 #### Insights
-Young adults recorded the highest diarrhoea incidence (61 cases), making them the most affected group.
-
-Adults and teenagers also show relatively high incidence levels.
-
-The elderly group recorded the lowest incidence (11 cases).
+- Young adults recorded the highest diarrhoea incidence (61 cases), making them the most affected group.
+- Adults and teenagers also show relatively high incidence levels.
+- The elderly group recorded the lowest incidence (11 cases).
 
 This pattern suggests that working-age populations may have higher exposure to risk factors such as contaminated food or water sources.
 
-
 # Recommendation
-High-incidence states such as Sokoto, Kebbi, and Niger should receive targeted public health interventions, including mosquito net distribution, sanitation programs, and improved access to clean water.
+- High-incidence states such as Sokoto, Kebbi, and Niger should receive targeted public health interventions, including mosquito net distribution, sanitation programs, and improved access to clean water.
 
-States with extremely high cholera mortality rates should strengthen emergency healthcare response by improving early diagnosis, treatment availability, and rapid medical intervention.
+- States with extremely high cholera mortality rates should strengthen emergency healthcare response by improving early diagnosis, treatment availability, and rapid medical intervention.
 
-Healthcare infrastructure should be expanded in both urban and rural areas since disease occurrence is almost evenly distributed across the two settlement types.
+- Healthcare infrastructure should be expanded in both urban and rural areas since disease occurrence is almost evenly distributed across the two settlement types.
 
-Vaccination and disease control programs should be intensified to reduce the rising death rates observed in diseases such as measles and viral hemorrhagic fever.
+- Vaccination and disease control programs should be intensified to reduce the rising death rates observed in diseases such as measles and viral hemorrhagic fever.
 
-Public health education campaigns should focus on young adults and adults, as they show the highest incidence of diarrhoea.
+- Public health education campaigns should focus on young adults and adults, as they show the highest incidence of aome disease e.g., diarrhoea.
 
-Health authorities should implement stronger disease surveillance and early warning systems to detect and respond quickly to outbreaks such as the spike in meningitis cases.
+- Health authorities should implement stronger disease surveillance and early warning systems to detect and respond quickly to outbreaks such as the spike in meningitis cases.
+
 
 # Conclusion
 The analysis reveals significant variations in disease incidence and mortality across Nigerian states, years, and population groups. Certain states experience higher cases of malaria and cholera, while some diseases exhibit notably high mortality rates. Disease occurrence is almost evenly distributed between rural and urban areas, and specific age groups are more affected by illnesses such as diarrhoea. These findings highlight the need for targeted public health interventions, improved disease monitoring, and strengthened healthcare systems to reduce disease burden and mortality.
